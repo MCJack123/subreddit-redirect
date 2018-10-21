@@ -8,4 +8,4 @@ http.createServer(function(req, res) {
         'Location': location
     }
     res.writeHead(302, head)
-}).listen(80);
+}).listen(process.env.PORT || 8080);
