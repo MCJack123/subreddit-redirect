@@ -1,0 +1,8 @@
+{
+  "name": "subreddit-redirect",
+  "description": "Redirects HTTP requests to a subreddit",
+  "version": "1.0.0",
+  "engines": {
+    "node": "8.9.4"
+  }
+}
