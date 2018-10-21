@@ -6,6 +6,6 @@
     "node": "8.9.4"
   },
   "scripts": {
-    "start": "app.js"
+    "start": "node app.js"
   }
 }
